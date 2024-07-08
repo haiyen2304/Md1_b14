@@ -183,6 +183,8 @@
 //==========================================
 //bài 7:= bài 1:
 // them code
+// myColor = ["Lion", "Tiger", "Wolf", "Kangaroo"];
+// console.log(myColor.join(","));
 //bài 7:= bài 2:
 // let a = prompt("nhập số bất kì");
 // let mang = a.split("");
