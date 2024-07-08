@@ -182,7 +182,7 @@
 // console.log(max);
 //==========================================
 //bài 7:= bài 1:
-
+// them code
 //bài 7:= bài 2:
 // let a = prompt("nhập số bất kì");
 // let mang = a.split("");
